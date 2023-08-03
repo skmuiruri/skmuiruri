@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skmuiruri
 - 👀 I’m interested in distributed systems and FP
-- 🌱 I’m currently learning ZIO
-- 💞️ I’m looking to collaborate on ZIO related projects
-- 📫 How to reach me @SamsonKamauM
+- 🌱 You'll find me in the Scala, ZIO, CATS, or Rust booth
+- 💞️ A keen student of infrastructure topics 
+- 📫 You can reach me @SamsonKamauM
 
 <!---
 skmuiruri/skmuiruri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
